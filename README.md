@@ -5,11 +5,11 @@
 - 코드 설명
   @shap
   - shap_preprocessing
-    데이터 타입변경 / 데이터 정제 / 데이터 변환
+    - 데이터 타입변경 / 데이터 정제 / 데이터 변환
   - shap_model
-    classification model: lightGBM
-    Interpretable model: Shap
+    - classification model: lightGBM
+    - Interpretable model: Shap
   - shap_main
-    데이터 학습 및 output 도출
+    - 데이터 학습 및 output 도출
   - utill 
-    보편적인 코드 실행
+    - 보편적인 코드 실행
